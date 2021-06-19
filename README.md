@@ -15,7 +15,7 @@ contains project styleguide
   
 1. lone and then open it up on your prefered code editor
   
-1. Open terminal and set upsream branch: > git remote add upstream https://github.com/david4473/zuri-training-project-bunkie
+1. Open terminal and set upsream branch: `git remote add upstream https://github.com/david4473/zuri-training-project-bunkie`
   
 1. Pull upstream > git pull upstream main
   
