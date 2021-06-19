@@ -5,8 +5,7 @@ This project seeks to proffer a solution to one of the draining problems univers
 
 <h1>#Low-fi Design</h1>
 
-Link to design in figma
-https://www.figma.com/file/Sbh1zuCFAzera1yIHYVz6K/Project-Bunkie?node-id=0%3A1
+<a href="https://www.figma.com/file/Sbh1zuCFAzera1yIHYVz6K/Project-Bunkie?node-id=0%3A1">Link to design in figma<a/>
 contains project styleguide
 
 <h1>#Contribution Guide</h1>
