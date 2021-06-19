@@ -9,7 +9,7 @@ Link to design in figma
 https://www.figma.com/file/Sbh1zuCFAzera1yIHYVz6K/Project-Bunkie?node-id=0%3A1
 contains project styleguide
 
-#Contribution Guide
+<h1>#Contribution Guide</h1>
 
 Fork the repository
 Clone and then open it up on your prefered code editor
