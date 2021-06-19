@@ -1,9 +1,9 @@
 # zuri-training-project-bunkie
-#About project-bunkie
+<h1>#About project-bunkie</h1>
 
 This project seeks to proffer a solution to one of the draining problems university students face, that is, getting a decent accommodation and a compatible roommate to live with to split room costs. 
 
-#Low-fi Design
+<h1>#Low-fi Design</h1>
 
 Link to design in figma
 https://www.figma.com/file/Sbh1zuCFAzera1yIHYVz6K/Project-Bunkie?node-id=0%3A1
