@@ -17,16 +17,16 @@ contains project styleguide
   
 1. Open terminal and set upsream branch: `git remote add upstream https://github.com/david4473/zuri-training-project-bunkie`
   
-1. Pull upstream > git pull upstream main
+1. Pull upstream `git pull upstream main`
   
-1. Create a new branch for the task your are doing eg: > git checkout -b landing-page
+1. Create a new branch for the task your are doing eg: `git checkout -b landing-page`
   
-1. After making changes, do > git add .
+1. After making changes, do `git add` .
   
-1. Commit your changes with a descriptive commit messagegit commit -m "commit message"
+1. Commit your changes with a descriptive commit message `git commit -m "commit message"`
   
-1. To make sure there are no conflicts: > git pull upstream main
+1. To make sure there are no conflicts: `git pull upstream main`
   
-1. Push changes to your new branch: > git push origin your-current-branch-name
+1. Push changes to your new branch: `git push origin your-current-branch-name`
   
 1. Create a pull request to the main branch 
